@@ -1,0 +1,277 @@
+*{
+    margin: 0;
+
+    
+}
+
+h1{
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+h2 ,h3, h4{
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
+}
+.banner-aria{
+    height: 100vh;
+    width: 100%;
+    color: rgb(243, 249, 249);
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.056) , rgb(0, 0, 0)) , url("images//donation4.jpg");
+    background-blend-mode: darken;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.banner-item{
+    width: 100%;
+    margin: 0 auto;
+}
+.banner-title {
+    font-weight: 800;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.banner-description {
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+.btn-primary {
+    padding: 15px;
+    background:#ff5959;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
+/* price-aria */
+.many{
+    text-align: center;
+    margin-top: 35px;
+    font-weight: 800;
+}
+
+
+
+
+
+.second-class {
+    height: 80px;
+    width: 140px;
+    text-align: center;
+    background-color: #e090904f;
+    color: #ff000075;
+    border: 3px solid #ff00005c;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+.price-aria{
+    width: 850px;
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+}
+.price-title {
+    font-weight: 800;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.price-description{
+    font-size: 20px;
+    color: #82796dc7;
+    padding: 40px;
+    font-size: 400;
+}
+.main-div{
+ display: flex;
+ gap: 5px;
+ justify-content: space-between;
+ align-items: center;
+
+}
+.item-div{
+    height: 80px;
+    width: 140px;
+    text-align: center;
+    background-color:#d7c7c74f;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+.sub-title {
+    padding: 30px;
+    font-size: 20px;
+    color: #82796dc7;
+    font-weight: 400;
+}
+.btn-small{
+    padding: 15px;
+    background:#ff5959;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+/* Donate-site */
+.donate-site{
+    width: 1140px;
+    height: 80vh;
+    text-align: center;
+    margin: 0 auto;
+}
+.frist-donate{
+text-align: center;
+width: 50%;
+margin: 0 auto;
+padding-bottom: 50px;
+}
+.donate-heading {
+    font-size: 40px;
+    font-weight: 800;
+    padding: 30px;
+}
+.donate-descripton{
+    font-size: 22px;
+    color: #82796dc7;
+}
+.donate-card-aria{
+    display: flex;
+    text-align: left;
+    gap: 20px;
+}
+.donote-card-size{
+    padding: 40px;
+    background-color: #edf5f6;
+    border-radius: 5px;
+
+}
+
+.doner-images{
+    padding-top: 10px;
+}
+.donate-card-heading {
+    padding-top: 25px;
+    font-weight: 800;
+    font-size: 25px;
+}
+.donate-card-description {
+    
+    color: #82796dc7;
+    padding-top: 25px;  
+}
+/* donation-vlog */
+.donation-vlog{
+    width: 1140px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.left-site{
+    text-align: left ;
+    padding: 30px;
+}
+.left-site-heading {
+    padding-top: 20px;
+    font-weight: 800;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.left-site-descripton {
+    padding-top: 20px;
+    font-size: 20px;
+    color:#82796dc7;
+    padding-bottom: 20px;
+}
+.left-site-btn-primary {
+    padding: 15px;
+    background: #ff5959;
+    color: white;
+    font-size: 22px;
+    border: none;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+.right-site{
+width: 90%;
+}
+.right-site-images{
+    max-width: 95%;
+    border-radius: 5px;
+}
+/* bottom banner */
+
+/* update-section */
+.update-section{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+.update-title {
+    margin-top: 62px;
+    padding: 19px 87px;
+    font-weight: 800;
+    font-size: 50px;
+}
+.update-descripton {
+    padding: 23px 254px;
+    color: #82796dc7 ;
+    font-size: 18px;
+}
+
+.main-section{
+  width: 30%;
+  margin: 0 auto;
+  padding: 70px 150px;
+  background-color: #f8ecca;  
+  margin-top: 25px;
+  margin-bottom: 130px;
+}
+
+.input-aitm {
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+    padding: 15px;
+    background-color: #d9d9d9;
+    font-size: 20px;
+    height: 20px;
+    width: 260px;
+}
+.input-submit{
+    padding: 13px;
+    background-color: #ff5959;
+    font-size: 20px;
+    color: #d9d9d9;
+    margin-left: -5px;border: none;
+    border-radius: 0px 5px 5px 0px
+}
+.fotter-section{
+    padding: 30px;
+    text-align: center;
+    background-color: black;
+}
+.fotter-title{
+    color: #ff5959;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.fotter-sub-title{
+    color: aliceblue;
+    padding: 20px 0px;
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+
+
