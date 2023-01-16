@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    padding: 0;
 
     
 }
@@ -14,6 +15,7 @@ h2 ,h3, h4{
     font-family: 'Raleway', sans-serif;
 
 }
+
 .banner-aria{
     height: 100vh;
     width: 100%;
@@ -50,17 +52,14 @@ h2 ,h3, h4{
     border: none;
     border-radius: 5px;
 }
+
+
 /* price-aria */
 .many{
     text-align: center;
     margin-top: 35px;
     font-weight: 800;
 }
-
-
-
-
-
 .second-class {
     height: 80px;
     width: 140px;
@@ -118,6 +117,9 @@ h2 ,h3, h4{
     border-radius: 5px;
     margin-top: 15px;
 }
+
+
+
 /* Donate-site */
 .donate-site{
     width: 1140px;
@@ -165,6 +167,7 @@ padding-bottom: 50px;
     color: #82796dc7;
     padding-top: 25px;  
 }
+
 /* donation-vlog */
 .donation-vlog{
     width: 1140px;
